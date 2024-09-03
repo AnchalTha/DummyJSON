@@ -1,0 +1,340 @@
+{
+  "pages": [
+    {
+      "data": [
+        {
+          "id": 1,
+          "title": "The Shawshank Redemption",
+          "poster": "https://m.media-amazon.com/images/I/81O3fE93rlL.jpg",
+          "year": "1994",
+          "country": "USA",
+          "imdb_rating": "9.3",
+          "genres": [
+            "Crime",
+            "Drama"
+          ],
+          "images": [
+            "https://cdn.theasc.com/Shawshank-Featured.jpg",
+            "https://cdn.theasc.com/Shawshank-Yard.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Stree2",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+          "year": "2024",
+          "country": "India",
+          "imdb_rating": "7.7",
+          "genres": [
+            "Comedy",
+            "Horror"
+          ],
+          "images": [
+            "https://images.hindustantimes.com/img/2024/08/13/550x309/stree_2_plot_cast_1723530661673_1723530693774.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Munjya",
+          "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Munjya_2024.jpg",
+          "year": "2024",
+          "country": "India",
+          "imdb_rating": "6.6",
+          "genres": [
+            "Comedy",
+            "Horror"
+          ],
+          "images": [
+            "https://static.tnn.in/thumb/msid-111156877,thumbsize-101896,width-1280,height720,resizemode-75/111156877.jpg?quality=100"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Kalki 2898 AD",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_.jpg",
+          "year": "2024",
+          "country": "India",
+          "imdb_rating": "7.2",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "images": [
+            "https://static.tnn.in/thumb/msid-111453481,thumbsize-1192810,width-1280,height720,resizemode-75/111453481.jpg?quality=100"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Buddy",
+          "poster": "https://i.pinimg.com/564x/98/d1/d6/98d1d64e7ae080ba488c365942a7da63.jpg",
+          "year": "2024",
+          "country": "India",
+          "imdb_rating": "5.7",
+          "genres": [
+            "action",
+            "Adventure"
+          ],
+          "images": [
+            "https://i.pinimg.com/564x/98/d1/d6/98d1d64e7ae080ba488c365942a7da63.jpg",
+            "https://i.pinimg.com/originals/13/37/b8/1337b84ee43b38a88d32e3d08392c12e.jpg",
+            "https://static.toiimg.com/thumb/msid-100625850,width-400,resizemode4/100625850.jpg"
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Shershaah",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjk1NzcwMDUtNDU4ZC00MzlhLTkzZjAtM2MxMTRjZGE0ODdhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+          "year": "2021",
+          "country": "India",
+          "imdb_rating": "8.3",
+          "genres": [
+            "Biography",
+            "Drama",
+            "Action"
+          ],
+          "images": [
+            "https://stat5.bollywoodhungama.in/wp-content/uploads/2021/08/Shershaah-2-11.jpg",
+            "https://media5.bollywoodhungama.in/wp-content/uploads/2018/05/Shershaah-6.jpg",
+            "https://i.pinimg.com/564x/bc/85/54/bc8554ea946d4e870f66e3173962b7c1.jpg"
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Raayan",
+          "poster": "https://images.filmibeat.com/ph-big/2024/05/raayan1715150690_2.jpg",
+          "year": "2024",
+          "country": "India",
+          "imdb_rating": "6.5",
+          "genres": [
+            "Action",
+            "Drama"
+          ],
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/en/e/e4/Raayan_poster.jpg",
+            "https://images.filmibeat.com/ph-big/2024/05/raayan1715150690_2.jpg"
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Bad Newz",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYjBhODI2OGEtNjkyMS00N2QzLWE3MGUtYWE2MTc4M2RmMjEwXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+          "year": "2024",
+          "country": "India",
+          "imdb_rating": "8.9",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "images": [
+            "https://m.media-amazon.com/images/M/MV5BZjIzYjY3ZTQtNjA3Yi00MTFiLWExM2ItNjYxZmI1ZjcyMTYxXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_UY1200_CR135,0,630,1200_AL_.jpg"
+          ]
+        },
+        {
+          "id": 9,
+          "title": "It Ends With Us",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYzM2NGMzNGQtZjNhMi00MTVkLTg2ZGQtN2M4OTllYzU1Y2Y0XkEyXkFqcGc@._V1_.jpg",
+          "year": "2024",
+          "country": "USA",
+          "imdb_rating": "6.7",
+          "genres": [
+            "Drama"
+          ],
+          "images": [
+            "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471156267/it-ends-with-us-9781471156267_hr.jpg"
+          ]
+        },
+        {
+          "id": 10,
+          "title": "12th Fail",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+          "year": "2023",
+          "country": "India",
+          "imdb_rating": "8.9",
+          "genres": [
+            "Drama"
+          ],
+          "images": [
+            "https://m.media-amazon.com/images/M/MV5BZWQzOGY3NWQtNTZlNC00ZmFlLTlhMTYtMWUxZmY1YWFjYTMzXkEyXkFqcGdeQXVyMTE3Mzg4MjM2._V1_.jpg"
+          ]
+        }
+      ],
+      "metadata": {
+        "current_page": "1",
+        "per_page": 10,
+        "page_count": 25,
+        "total_count": 250
+      }
+    },
+    {
+      "data": [
+        {
+          "id": 11,
+          "title": "Bahubali-The Beginning",
+          "poster": "https://m.media-amazon.com/images/M/MV5BM2YxZThhZmEtYzM0Yi00OWYxLWI4NGYtM2Y2ZDNmOGE0ZWQzXkEyXkFqcGc@._V1_.jpg",
+          "year": "2015",
+          "country": "India",
+          "imdb_rating": "8.0",
+          "genres": [
+            "Action",
+            "Drama",
+            "Epic"
+          ],
+          "images": [
+            "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11546593_p_v10_af.jpg",
+            "https://w0.peakpx.com/wallpaper/286/810/HD-wallpaper-movie-baahubali-the-beginning-prabhas.jpg"
+          ]
+        },
+        {
+          "id": 12,
+          "title": "OMG-Oh My God!",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTg1MjE2YTQtMmE3ZC00NGQ2LWJiMWYtZmIxNTYzZjJmYTkwXkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg",
+          "year": "2012",
+          "country": "India",
+          "imdb_rating": "8.1",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "images": [
+            "https://m.media-amazon.com/images/M/MV5BYTg1MjE2YTQtMmE3ZC00NGQ2LWJiMWYtZmIxNTYzZjJmYTkwXkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg"
+          ]
+        },
+        {
+          "id": 13,
+          "title": "Hera Pheri",
+          "poster": "https://m.media-amazon.com/images/M/MV5BNDZmMGEwMjQtNjFlNi00ZGIxLTlkZjItNmU3Mzg4Y2E0ZjUzXkEyXkFqcGc@._V1_.jpg",
+          "year": "2000",
+          "country": "India",
+          "imdb_rating": "8.2",
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "images": [
+            "https://m.media-amazon.com/images/M/MV5BNzgzYjZjYzMtNjcyYy00NWI3LTg1NDItOTMzMzdhMjhjNWExXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg"
+          ]
+        },
+        {
+          "id": 14,
+          "title": "3 Idiots",
+          "poster": "https://wallpaperaccess.com/full/3574439.jpg",
+          "year": "2009",
+          "country": "India",
+          "imdb_rating": "8.4",
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "images": [
+            "https://vistapointe.net/images/3-idiots-5.jpg"
+          ]
+        },
+        {
+          "id": 15,
+          "title": "Uri-The Surgical Strike",
+          "poster": "https://stat5.bollywoodhungama.in/wp-content/uploads/2018/09/Uri.jpg",
+          "year": "2016",
+          "country": "India",
+          "imdb_rating": "8.2",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Action"
+          ],
+          "images": [
+            "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e3af5275498735.5c4ed7eb63e96.jpg"
+          ]
+        },
+        {
+          "id": 16,
+          "title": "Fighter",
+          "poster": "https://i.redd.it/1694oij8hd8c1.jpeg",
+          "year": "2022",
+          "country": "India",
+          "imdb_rating": "6.2",
+          "genres": [
+            "Drama",
+            "Action"
+          ],
+          "images": [
+            "https://static.theprint.in/wp-content/uploads/2024/01/ANI-20240114080639.jpg"
+          ]
+        },
+        {
+          "id": 17,
+          "title": "Mission Majnu",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTYwYmI0NGItYmFkYi00NzViLWIwMGEtNGNjYjQwYjY1NTQ1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+          "year": "2023",
+          "country": "India",
+          "imdb_rating": "7.0",
+          "genres": [
+            "Action",
+            "History",
+            "Drama"
+          ],
+          "images": [
+            "https://stat4.bollywoodhungama.in/wp-content/uploads/2023/01/Mission-Majnu.jpg"
+          ]
+        },
+        {
+          "id": 18,
+          "title": "Vivah",
+          "poster": "https://xstreamcp-assets-msp.streamready.in/assets/SHEMAROOME/MOVIE/6478329559fcb666645f5f60/images/xl_image_2_3_airtel_1723016573.jpg",
+          "year": "2006",
+          "country": "India",
+          "imdb_rating": "6.7",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Musical"
+          ],
+          "images": [
+            "https://m.media-amazon.com/images/M/MV5BNTczMmUyMzgtZGNhMC00MDRkLTkyNzQtNjBhODYzZThlYzJjXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_.jpg"
+          ]
+        },
+        {
+          "id": 19,
+          "title": "Rustom",
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTU4MDhjYTUtN2ExNC00ZDk2LTg1OGUtMjdlMzAyMmE5ZTcyL2ltYWdlXkEyXkFqcGdeQXVyNzE2NjgwMDY@._V1_.jpg",
+          "year": "2016",
+          "country": "India",
+          "imdb_rating": "7.0",
+          "genres": [
+            "Crime",
+            "Thriller",
+            "Drama"
+          ],
+          "images": [
+            "https://images.justwatch.com/poster/48750912/s718/rustom.jpg"
+          ]
+        },
+        {
+          "id": 20,
+          "title": "Dear Comrade",
+          "poster": "https://wallpapers.com/images/hd/dear-comrade-camping-poster-wzhsefimqkl4l3ic.jpg",
+          "year": "2019",
+          "country": "India",
+          "imdb_rating": "7.3",
+          "genres": [
+            "Action",
+            "Drama",
+            "Romance"
+          ],
+          "images": [
+            "https://wallpapers.com/images/hd/dear-comrade-shoulder-rest-l8uh2hur729xaens.jpg",
+            "https://wallpapers.com/images/hd/dear-comrade-rain-sc602lbpjr30qgjt.jpg",
+            "https://wallpapers.com/images/hd/dear-comrade-camping-together-2gjfknn7p27acg04.jpg"
+          ]
+        }
+      ],
+      "metadata": {
+        "current_page": "2",
+        "per_page": 10,
+        "page_count": 25,
+        "total_count": 250
+      }
+    }
+  ]
+}
